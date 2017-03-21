@@ -1,0 +1,1 @@
+This project is a simple example to demonstrate spring-data-couchbase has a bug regarding deletion derivation. The documents that should be deleted are correctly returned, but they are not really deleted from Couchbase.
